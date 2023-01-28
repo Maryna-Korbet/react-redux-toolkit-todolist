@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-redux-toolkit-todolist/static/css/main.5763847e.css",
-    "main.js": "/react-redux-toolkit-todolist/static/js/main.28f07b33.js",
+    "main.js": "/react-redux-toolkit-todolist/static/js/main.27ed6553.js",
     "index.html": "/react-redux-toolkit-todolist/index.html",
     "main.5763847e.css.map": "/react-redux-toolkit-todolist/static/css/main.5763847e.css.map",
-    "main.28f07b33.js.map": "/react-redux-toolkit-todolist/static/js/main.28f07b33.js.map"
+    "main.27ed6553.js.map": "/react-redux-toolkit-todolist/static/js/main.27ed6553.js.map"
   },
   "entrypoints": [
     "static/css/main.5763847e.css",
-    "static/js/main.28f07b33.js"
+    "static/js/main.27ed6553.js"
   ]
 }
